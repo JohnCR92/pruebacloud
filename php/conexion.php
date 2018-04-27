@@ -1,8 +1,8 @@
 <?php
-$host="localhost";
+$host="10.129.180.91";
 $user="root";
-$password="";
-$db="myapp";
+$password="curytravez";
+$db="registroDB";
 $con = new mysqli($host,$user,$password,$db);
 
 ?>
